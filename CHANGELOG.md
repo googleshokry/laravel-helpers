@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to `sebastiaanluca/laravel-helpers` will be documented in this file.
+All notable changes to `googleshokry/laravel-helpers` will be documented in this file.
 
 Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) principles.
 
@@ -30,7 +30,7 @@ Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) princip
 
 ### Removed
 
-- ⚠️ Extracted all non-Laravel helpers to [individual packages](https://github.com/sebastiaanluca/php-helpers)
+- ⚠️ Extracted all non-Laravel helpers to [individual packages](https://github.com/googleshokry/php-helpers)
 - ⚠️ Removed support for PHP 7.1 and below
 - ⚠️ Removed support for Laravel 5.5 and below
 - Removed deprecated `use Laravelista\Ekko\Ekko;` import
@@ -50,7 +50,7 @@ Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) princip
 
 ### Fixed
 
-- Use the item pipe operator class identifier instead of a hardcoded `$$` string ([#11](https://github.com/sebastiaanluca/laravel-helpers/pull/11))
+- Use the item pipe operator class identifier instead of a hardcoded `$$` string ([#11](https://github.com/googleshokry/laravel-helpers/pull/11))
 
 ## 1.0.1 (2017-07-11)
 
@@ -87,9 +87,9 @@ Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) princip
 ### Removed
 
 - Dropped support for Laravel 5.1, 5.2, and 5.3
-- Extracted module service provider (moved to [laravel-resource-flow](https://github.com/sebastiaanluca/laravel-resource-flow))
-- Extracted base Eloquent model (moved to [laravel-resource-flow](https://github.com/sebastiaanluca/laravel-resource-flow))
-- Extracted queueable job (moved to [laravel-resource-flow](https://github.com/sebastiaanluca/laravel-resource-flow))
+- Extracted module service provider (moved to [laravel-resource-flow](https://github.com/googleshokry/laravel-resource-flow))
+- Extracted base Eloquent model (moved to [laravel-resource-flow](https://github.com/googleshokry/laravel-resource-flow))
+- Extracted queueable job (moved to [laravel-resource-flow](https://github.com/googleshokry/laravel-resource-flow))
 - Removed `mapWithIntegerKeys` collection macro (fixed in Laravel 5.4.x)
 - Removed HTML and form helpers (tip: use Spatie's macroable https://github.com/spatie/laravel-html package instead)
 - Removed `is_active_route` global helper (use Ekko's default global helpers instead)

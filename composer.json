@@ -1,5 +1,5 @@
 {
-    "name": "sebastiaanluca/laravel-helpers",
+    "name": "googleshokry/laravel-helpers",
     "type": "library",
     "description": "An extensive set of Laravel framework helper functions and collection macros.",
     "keywords": [
@@ -8,13 +8,13 @@
         "collections",
         "macros"
     ],
-    "homepage": "https://github.com/sebastiaanluca/laravel-helpers",
+    "homepage": "https://github.com/googleshokry/laravel-helpers",
     "license": "MIT",
     "authors": [
         {
             "name": "Sebastiaan Luca",
-            "email": "hello@sebastiaanluca.com",
-            "homepage": "https://www.sebastiaanluca.com",
+            "email": "hello@googleshokry.com",
+            "homepage": "https://www.googleshokry.com",
             "role": "Author"
         }
     ],
@@ -35,7 +35,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SebastiaanLuca\\Helpers\\": "src"
+            "Googleshokry\\Helpers\\": "src"
         },
         "files": [
             "src/Methods/helpers.php"
@@ -43,7 +43,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "SebastiaanLuca\\Helpers\\Tests\\": "tests"
+            "Googleshokry\\Helpers\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -55,7 +55,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "SebastiaanLuca\\Helpers\\Collections\\CollectionMacrosServiceProvider"
+                "Googleshokry\\Helpers\\Collections\\CollectionMacrosServiceProvider"
             ]
         }
     }

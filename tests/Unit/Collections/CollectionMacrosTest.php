@@ -1,10 +1,10 @@
 <?php
 
-namespace SebastiaanLuca\Helpers\Tests\Unit\Collections;
+namespace Googleshokry\Helpers\Tests\Unit\Collections;
 
 use Carbon\Carbon;
-use SebastiaanLuca\Helpers\Collections\CollectionMacrosServiceProvider;
-use SebastiaanLuca\Helpers\Tests\TestCase;
+use Googleshokry\Helpers\Collections\CollectionMacrosServiceProvider;
+use Googleshokry\Helpers\Tests\TestCase;
 
 class CollectionMacrosTest extends TestCase
 {

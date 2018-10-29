@@ -1,6 +1,6 @@
 <?php
 
-namespace SebastiaanLuca\Helpers\Tests;
+namespace Googleshokry\Helpers\Tests;
 
 use Mockery;
 use Mockery\Adapter\Phpunit\MockeryPHPUnitIntegration;

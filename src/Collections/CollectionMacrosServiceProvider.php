@@ -1,6 +1,6 @@
 <?php
 
-namespace SebastiaanLuca\Helpers\Collections;
+namespace Googleshokry\Helpers\Collections;
 
 use Carbon\Carbon;
 use Illuminate\Support\Collection;

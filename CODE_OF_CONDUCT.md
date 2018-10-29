@@ -9,4 +9,4 @@ It's simple, really:
 
 Feel like someone's in violation of this? [Contact me directly][link-author-email].
 
-[link-author-email]: mailto:hello@sebastiaanluca.com
+[link-author-email]: mailto:hello@googleshokry.com

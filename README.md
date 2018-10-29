@@ -1,19 +1,19 @@
 <p align="center">
-<img title="Laravel Helpers" src="https://raw.githubusercontent.com/sebastiaanluca/laravel-helpers/develop/logo.png"></img>
+<img title="Laravel Helpers" src="https://raw.githubusercontent.com/googleshokry/laravel-helpers/develop/logo.png"></img>
 </p>
 
 <p align="center">
-<a href="https://packagist.org/packages/sebastiaanluca/laravel-helpers"><img src="https://poser.pugx.org/sebastiaanluca/laravel-helpers/version" alt="Latest stable release"></img></a>
+<a href="https://packagist.org/packages/googleshokry/laravel-helpers"><img src="https://poser.pugx.org/googleshokry/laravel-helpers/version" alt="Latest stable release"></img></a>
 <a href="LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" alt="Software license"></img></a>
-<a href="https://travis-ci.org/sebastiaanluca/laravel-helpers"><img src="https://img.shields.io/travis/sebastiaanluca/laravel-helpers/master.svg" alt="Build status"></img></a>
-<a href="https://packagist.org/packages/sebastiaanluca/laravel-helpers"><img src="https://img.shields.io/packagist/dt/sebastiaanluca/laravel-helpers.svg" alt="Total downloads"></img></a>
+<a href="https://travis-ci.org/googleshokry/laravel-helpers"><img src="https://img.shields.io/travis/googleshokry/laravel-helpers/master.svg" alt="Build status"></img></a>
+<a href="https://packagist.org/packages/googleshokry/laravel-helpers"><img src="https://img.shields.io/packagist/dt/googleshokry/laravel-helpers.svg" alt="Total downloads"></img></a>
 </p>
 
 <p align="center">
-<a href="https://blog.sebastiaanluca.com"><img src="https://img.shields.io/badge/link-blog-lightgrey.svg" alt="Read my blog"></img></a>
-<a href="https://packagist.org/packages/sebastiaanluca"><img src="https://img.shields.io/badge/link-other_packages-lightgrey.svg" alt="View my other packages and projects"></img></a>
-<a href="https://twitter.com/sebastiaanluca"><img src="https://img.shields.io/twitter/follow/sebastiaanluca.svg?style=social" alt="Follow @sebastiaanluca on Twitter"></img></a>
-<a href="https://twitter.com/home?status=https://twitter.com/intent/tweet?text=Check%20out%20this%20extensive%20set%20of%20Laravel%20framework%20helper%20functions%20and%20collection%20macros!%20Via%20@sebastiaanluca%20https://github.com/sebastiaanluca/laravel-helpers"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" alt="Share this package on Twitter"></img></a>
+<a href="https://blog.googleshokry.com"><img src="https://img.shields.io/badge/link-blog-lightgrey.svg" alt="Read my blog"></img></a>
+<a href="https://packagist.org/packages/googleshokry"><img src="https://img.shields.io/badge/link-other_packages-lightgrey.svg" alt="View my other packages and projects"></img></a>
+<a href="https://twitter.com/googleshokry"><img src="https://img.shields.io/twitter/follow/googleshokry.svg?style=social" alt="Follow @googleshokry on Twitter"></img></a>
+<a href="https://twitter.com/home?status=https://twitter.com/intent/tweet?text=Check%20out%20this%20extensive%20set%20of%20Laravel%20framework%20helper%20functions%20and%20collection%20macros!%20Via%20@googleshokry%20https://github.com/googleshokry/laravel-helpers"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" alt="Share this package on Twitter"></img></a>
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@
 Just add the package to your project using Composer and Laravel will auto-discover it:
 
 ```bash
-composer require sebastiaanluca/laravel-helpers
+composer require googleshokry/laravel-helpers
 ```
 
 If you want to use the collection debug macros, install the [kint-php/kint](https://github.com/raveren/kint) package as a dev dependency:
@@ -68,7 +68,7 @@ composer require kint-php/kint --dev
 
 ## Upgrading from 1.x
 
-All essential generic PHP helpers have been extracted to their own [sebastiaanluca/php-helpers](https://github.com/sebastiaanluca/php-helpers) package and some other helpers have been removed in anticipation of their own package. In effect and from now on, Laravel Helpers will only contain helpers for the Laravel framework.
+All essential generic PHP helpers have been extracted to their own [googleshokry/php-helpers](https://github.com/googleshokry/php-helpers) package and some other helpers have been removed in anticipation of their own package. In effect and from now on, Laravel Helpers will only contain helpers for the Laravel framework.
 
 In addition, the minimum requirements have been upgraded to PHP 7.2 and Laravel 5.6.
 
@@ -396,7 +396,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) and [CODE OF CONDUCT](CODE_OF_CONDUCT
 
 ## Security
 
-If you discover any security related issues, please email [hello@sebastiaanluca.com][link-author-email] instead of using the issue tracker.
+If you discover any security related issues, please email [hello@googleshokry.com][link-author-email] instead of using the issue tracker.
 
 ## Credits
 
@@ -408,14 +408,14 @@ If you discover any security related issues, please email [hello@sebastiaanluca.
 
 My name is Sebastiaan and I'm a freelance Laravel developer specializing in building custom Laravel applications. Check out my [portfolio][link-portfolio] for more information, [my blog][link-blog] for the latest tips and tricks, and my other [packages][link-packages] to kick-start your next project.
 
-Have a project that could use some guidance? Send me an e-mail at [hello@sebastiaanluca.com][link-author-email]!
+Have a project that could use some guidance? Send me an e-mail at [hello@googleshokry.com][link-author-email]!
 
-[link-packagist]: https://packagist.org/packages/sebastiaanluca/laravel-helpers
-[link-travis]: https://travis-ci.org/sebastiaanluca/laravel-helpers
+[link-packagist]: https://packagist.org/packages/googleshokry/laravel-helpers
+[link-travis]: https://travis-ci.org/googleshokry/laravel-helpers
 [link-contributors]: ../../contributors
 
-[link-portfolio]: https://www.sebastiaanluca.com
-[link-blog]: https://blog.sebastiaanluca.com
-[link-packages]: https://packagist.org/packages/sebastiaanluca
-[link-github-profile]: https://github.com/sebastiaanluca
-[link-author-email]: mailto:hello@sebastiaanluca.com
+[link-portfolio]: https://www.googleshokry.com
+[link-blog]: https://blog.googleshokry.com
+[link-packages]: https://packagist.org/packages/googleshokry
+[link-github-profile]: https://github.com/googleshokry
+[link-author-email]: mailto:hello@googleshokry.com

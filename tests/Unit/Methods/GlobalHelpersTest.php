@@ -1,10 +1,10 @@
 <?php
 
-namespace SebastiaanLuca\Helpers\Tests\Unit\Methods;
+namespace Googleshokry\Helpers\Tests\Unit\Methods;
 
 use Illuminate\Contracts\Auth\Authenticatable;
 use Illuminate\Foundation\Auth\User;
-use SebastiaanLuca\Helpers\Tests\TestCase;
+use Googleshokry\Helpers\Tests\TestCase;
 
 class GlobalHelpersTest extends TestCase
 {
