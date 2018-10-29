@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-<a href="https://blog.googleshokry.com"><img src="https://img.shields.io/badge/link-blog-lightgrey.svg" alt="Read my blog"></img></a>
 <a href="https://packagist.org/packages/googleshokry"><img src="https://img.shields.io/badge/link-other_packages-lightgrey.svg" alt="View my other packages and projects"></img></a>
 <a href="https://twitter.com/googleshokry"><img src="https://img.shields.io/twitter/follow/googleshokry.svg?style=social" alt="Follow @googleshokry on Twitter"></img></a>
 <a href="https://twitter.com/home?status=https://twitter.com/intent/tweet?text=Check%20out%20this%20extensive%20set%20of%20Laravel%20framework%20helper%20functions%20and%20collection%20macros!%20Via%20@googleshokry%20https://github.com/googleshokry/laravel-helpers"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" alt="Share this package on Twitter"></img></a>
@@ -414,8 +413,6 @@ Have a project that could use some guidance? Send me an e-mail at [sms.shokry.mo
 [link-travis]: https://travis-ci.org/googleshokry/laravel-helpers
 [link-contributors]: ../../contributors
 
-[link-portfolio]: https://www.googleshokry.com
-[link-blog]: https://blog.googleshokry.com
 [link-packages]: https://packagist.org/packages/googleshokry
 [link-github-profile]: https://github.com/googleshokry
 [link-author-email]: mailto:sms.shokry.mohamed@gmail.com
