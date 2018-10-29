@@ -396,11 +396,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) and [CODE OF CONDUCT](CODE_OF_CONDUCT
 
 ## Security
 
-If you discover any security related issues, please email [hello@googleshokry.com][link-author-email] instead of using the issue tracker.
+If you discover any security related issues, please email [sms.shokry.mohamed@gmail.com][link-author-email] instead of using the issue tracker.
 
 ## Credits
 
-- [Sebastiaan Luca][link-github-profile]
+- [googleshokry][link-github-profile]
 - Logo by [Vitor Caneco](https://github.com/caneco)
 - [All Contributors][link-contributors]
 
@@ -408,7 +408,7 @@ If you discover any security related issues, please email [hello@googleshokry.co
 
 My name is Sebastiaan and I'm a freelance Laravel developer specializing in building custom Laravel applications. Check out my [portfolio][link-portfolio] for more information, [my blog][link-blog] for the latest tips and tricks, and my other [packages][link-packages] to kick-start your next project.
 
-Have a project that could use some guidance? Send me an e-mail at [hello@googleshokry.com][link-author-email]!
+Have a project that could use some guidance? Send me an e-mail at [sms.shokry.mohamed@gmail.com][link-author-email]!
 
 [link-packagist]: https://packagist.org/packages/googleshokry/laravel-helpers
 [link-travis]: https://travis-ci.org/googleshokry/laravel-helpers
@@ -418,4 +418,4 @@ Have a project that could use some guidance? Send me an e-mail at [hello@googles
 [link-blog]: https://blog.googleshokry.com
 [link-packages]: https://packagist.org/packages/googleshokry
 [link-github-profile]: https://github.com/googleshokry
-[link-author-email]: mailto:hello@googleshokry.com
+[link-author-email]: mailto:sms.shokry.mohamed@gmail.com
